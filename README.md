@@ -22,32 +22,33 @@ W17广域通道平台，用于长距离无线通信场景，实现管道数据�
 
 ## [包含设备](https://github.com/OS-Q/W17/wiki) 
 
-#### D113：[NULL](https://github.com/OS-Q/D113)
+#### D113：[NB通道](https://github.com/OS-Q/D113)
+
+基于NB-IOT设备的通信连接管道
+
+#### D114：[eMTC](https://github.com/OS-Q/D114)
+
+基于eMTC设备的通信连接管道
+
+#### D115：[2G通道](https://github.com/OS-Q/D115)
+
+基于2G GSM设备的通信连接管道
+
+#### D116：[3G通道](https://github.com/OS-Q/D116)
 
 
 
-#### D114：[NULL](https://github.com/OS-Q/D114)
+#### D117：[4G通道](https://github.com/OS-Q/D117)
 
 
 
-#### D115：[NULL](https://github.com/OS-Q/D115)
+#### D118：[5G通道](https://github.com/OS-Q/D118)
 
 
 
-#### D116：[NULL](https://github.com/OS-Q/D116)
+#### D119：[LoRa管道](https://github.com/OS-Q/D119)
 
-
-
-#### D117：[NULL](https://github.com/OS-Q/D117)
-
-
-
-#### D118：[NULL](https://github.com/OS-Q/D118)
-
-
-
-#### D119：[NULL](https://github.com/OS-Q/D119)
-
+基于LoRa的管道无线设备
 
 ## [同级平台](https://github.com/OS-Q/M4/wiki) 
 
