@@ -12,11 +12,10 @@ Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 
 广域网络管道平台，用于长距离无线数据收发，完成无线的远距离传输。
 
-## [平台资源](https://github.com/OS-Q/W17/wiki)
+## [平台资源](https://github.com/OS-Q/W17)
 
 - [资源](src/)
 - [文档](docs/)
-- [协议](file/)
 
 ### [平台结构](https://github.com/OS-Q/W17)
 
@@ -24,7 +23,7 @@ Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 	* W14：[接口转换](https://github.com/OS-Q/W14)
 	* W15：[无线模块](https://github.com/OS-Q/W15)
 	* W16：[无线设备](https://github.com/OS-Q/W16)
-	* W17：[广域网络](https://github.com/OS-Q/W17)
+	* W17：广域网络
 		* D113：[CLAA module](https://github.com/OS-Q/D113)
 		* D114：[NB moduleA](https://github.com/OS-Q/D114)
 		* D115：[NB moduleS](https://github.com/OS-Q/D115)
