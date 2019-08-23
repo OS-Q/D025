@@ -10,13 +10,13 @@
 
 ## [工程描述](https://github.com/OS-Q/W17/wiki)
 
-[数据存储](https://github.com/OS-Q/W17)归纳整理了数据处理相关的arduino库
+[数据存储](https://github.com/OS-Q/W17)归纳整理了数据存储相关的arduino库
 
 ## [工程资源](https://github.com/OS-Q/W17)
 
-- [资源](src/)
-- [文档](docs/)
-- [工程](project/)
+* [资源](src/)
+* [文档](docs/)
+* [工程](project/)
 
 ### [拓扑结构](https://github.com/OS-Q/W17)
 
@@ -25,14 +25,14 @@
 	* W15：[无线通信](https://github.com/OS-Q/W15)
 	* W16：[显示交互](https://github.com/OS-Q/W16)
 	* W17：数据存储
-		* D113：[Json5](https://github.com/OS-Q/D113)
-		* D114：[SMTP](https://github.com/OS-Q/D114)
-		* D115：[eMail](https://github.com/OS-Q/D115)
+		* D113：[SPIFFS](https://github.com/OS-Q/D113)
+		* D114：[Flash](https://github.com/OS-Q/D114)
+		* D115：[SQLite3](https://github.com/OS-Q/D115)
 		* D116：[FireBase](https://github.com/OS-Q/D116)
-		* D117：[SPIFFS](https://github.com/OS-Q/D117)
-		* D118：[SD](https://github.com/OS-Q/D118)
-		* D119：[SQLite](https://github.com/OS-Q/D119)
+		* D117：[FatFS](https://github.com/OS-Q/D117)
+		* D118：[SDFat](https://github.com/OS-Q/D118)
+		* D119：[SQLite3](https://github.com/OS-Q/D119)
+	* W18：[数据处理](https://github.com/OS-Q/W18)
 
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/W17)
 ####  2019-8-23
-
